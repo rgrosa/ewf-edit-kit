@@ -1,0 +1,45 @@
+{
+  "outputs": [
+    {
+      "id": "luta-02-v01",
+      "kind": "match",
+      "source": "input/video/EWF - Última Noite 2026 [EVENTO COMPLETO].mp4",
+      "start": 682,
+      "end": 1444
+    },
+    {
+      "id": "reel-02-v01",
+      "kind": "reel",
+      "source": "input/video/EWF - Última Noite 2026 [EVENTO COMPLETO].mp4",
+      "start": 1396,
+      "end": 1406,
+      "fps": 30
+    },
+    {
+      "id": "capa-02-v01",
+      "kind": "thumbnail",
+      "source": "input/images/foto-da-luta.jpg",
+      "style": "free-match",
+      "framing": "cover"
+    },
+    {
+      "id": "show-v01",
+      "kind": "event",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "segments": [
+        {
+          "source": "work/luta-01-mix.mp4",
+          "start": 0,
+          "end": 42
+        },
+        {
+          "source": "work/luta-02-mix.mp4",
+          "start": 0,
+          "end": 35
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Each event keeps its media locally. Track Markdown, plans and folder markers.
+/projects/*/input/**
+/projects/*/work/**
+/projects/*/exports/**
+!*/
+!.gitkeep
+!*.md
+node_modules/
+.DS_Store
+Thumbs.db
+.mp3
+.mp4
+.wav
