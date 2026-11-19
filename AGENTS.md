@@ -8,6 +8,7 @@ Aplica-se a toda esta pasta. / Applies to this entire folder.
 |---|---|---|
 | Editar evento, montar show, sincronizar narração | Edit full event, assemble show, sync commentary | [Evento / Event](docs/event.md) |
 | Separar lutas grátis, cortar luta completa | Split show into free matches, export a full match | [Lutas / Matches](docs/free-matches.md) |
+| Legendar promo, criar Reel de promo falada | Caption a promo, make a spoken promo Reel | [Promos](docs/promos.md) |
 | Criar Reel, vídeo vertical, melhores momentos | Make a Reel, vertical clip or highlights montage | [Reels](docs/reels.md) |
 | Editar thumbnail, capa, miniatura ou pôster | Edit a thumbnail, cover or poster | [Thumbnails](docs/thumbnails.md) |
 

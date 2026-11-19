@@ -41,6 +41,7 @@ A logo comum, as tarjas portáteis e duas referências visuais ficam em `assets/
 |---|---|
 | Montar um show, sincronizar narração ou organizar capítulos | [Evento completo](docs/event.md) |
 | Separar um show em lutas grátis | [Free matches](docs/free-matches.md) |
+| Legendar uma promo para Reel no padrão Sid e ASH | [Promos com legenda](docs/promos.md) |
 | Transformar um momento de ação em Reel | [Reels](docs/reels.md) |
 | Adaptar um pôster ou criar uma capa FREE MATCH | [Thumbnails](docs/thumbnails.md) |
 | Inventariar fontes ou renderizar um plano | [Comandos, formatos e limites](docs/render.md) |

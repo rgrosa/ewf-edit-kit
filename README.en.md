@@ -41,6 +41,7 @@ node bin/ewf.mjs init revolution-2026
 |---|---|
 | Assemble a show, sync commentary or create chapters | [Full event](docs/event.md) |
 | Split a show into individual free matches | [Free matches](docs/free-matches.md) |
+| Caption a spoken promo in the Sid and ASH style | [Captioned promos](docs/promos.md) |
 | Turn an action sequence into a Reel | [Reels](docs/reels.md) |
 | Fit a poster or create a FREE MATCH cover | [Thumbnails](docs/thumbnails.md) |
 | Inventory sources or render a plan | [Commands, formats and limits](docs/render.md) |

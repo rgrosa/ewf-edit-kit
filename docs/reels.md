@@ -2,6 +2,8 @@
 
 [PT](../README.md) · [EN](../README.en.md) · [Quadro do Reel de Revolution / Revolution frame](../assets/references/revolution-reel.jpg)
 
+Para um Reel de promo falada, siga o [guia de promos com legenda](promos.md). For a spoken promo Reel, use the [captioned promo guide](promos.md).
+
 ## Português
 
 Para um pedido “no mesmo formato”, use o Reel com logo aprovado pela EWF. Ele funciona com o master de um evento ou com uma luta avulsa. O trecho é contínuo e tem dez segundos. Um compilado de vários momentos é uma entrega distinta.
